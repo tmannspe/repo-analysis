@@ -1,0 +1,1 @@
+maat -l %~dp0\..\logs\git.log -c git -a revisions > %~dp0\..\logs\revisions.csv

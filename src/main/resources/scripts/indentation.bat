@@ -1,0 +1,1 @@
+%PYTHON% %~dp0\..\python\scripts\complexity_analysis.py %FILE_DIRECTORY% > %~dp0\..\logs\indentation.csv
